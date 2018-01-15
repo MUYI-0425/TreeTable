@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TreeTable_Example' do
+  pod 'TreeTable', :path => '../'
+
+  target 'TreeTable_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
