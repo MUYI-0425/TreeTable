@@ -1,0 +1,6 @@
+framework module TreeTable {
+  umbrella header "TreeTable-umbrella.h"
+
+  export *
+  module * { export * }
+}

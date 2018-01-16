@@ -1,0 +1,16 @@
+PODS:
+  - TreeTable (0.1.0)
+
+DEPENDENCIES:
+  - TreeTable (from `../`)
+
+EXTERNAL SOURCES:
+  TreeTable:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TreeTable: 93bd5dcac8604588fddb29208d9c29db458cb85e
+
+PODFILE CHECKSUM: 400c4ae2ad6090187f609f96b364a0090405919a
+
+COCOAPODS: 1.4.0.beta.1
